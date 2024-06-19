@@ -26,7 +26,8 @@ const FoodData = [
         image: img1,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 3
+        ratting: 3,
+        category: 'Lunch'
     },
     {
         id: 2,
@@ -34,7 +35,8 @@ const FoodData = [
         image: img2,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 3.5
+        ratting: 3.5,
+        category: 'Lunch'
     },
     {
         id: 3,
@@ -42,7 +44,8 @@ const FoodData = [
         image: img3,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 4
+        ratting: 4,
+        category: 'Lunch'
     },
     {
         id: 4,
@@ -50,7 +53,8 @@ const FoodData = [
         image: img4,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 4.5
+        ratting: 4.5,
+        category: 'Dinner'
     },
     {
         id: 5,
@@ -58,7 +62,8 @@ const FoodData = [
         image: img5,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 5
+        ratting: 5,
+        category: 'Lunch'
     },
     {
         id: 6,
@@ -66,7 +71,8 @@ const FoodData = [
         image: img6,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 2
+        ratting: 2,
+        category: 'Lunch'
     },
     {
         id: 7,
@@ -74,7 +80,8 @@ const FoodData = [
         image: img7,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 5
+        ratting: 5,
+        category: 'Dinner'
     },
     {
         id: 8,
@@ -82,7 +89,8 @@ const FoodData = [
         image: img8,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 4.5
+        ratting: 4.5,
+        category: 'Dinner'
     },
     {
         id: 9,
@@ -90,7 +98,8 @@ const FoodData = [
         image: img9,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 4.32
+        ratting: 4.32,
+        category: 'Dinner'
     },
     {
         id: 10,
@@ -98,7 +107,8 @@ const FoodData = [
         image: img10,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 3
+        ratting: 3,
+        category: 'Dinner'
     },
     {
         id: 11,
@@ -106,7 +116,8 @@ const FoodData = [
         image: img11,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 3.4
+        ratting: 3.4,
+        category: 'Dinner'
     },
     {
         id: 12,
@@ -114,7 +125,8 @@ const FoodData = [
         image: img12,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 3.4
+        ratting: 3.4,
+        category: 'Dinner'
     },
     {
         id: 13,
@@ -122,7 +134,8 @@ const FoodData = [
         image: img13,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 5
+        ratting: 5,
+        category: 'Dinner'
     },
     {
         id: 14,
@@ -130,7 +143,8 @@ const FoodData = [
         image: img14,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting: 3.5
+        ratting: 3.5,
+        category: 'Breakfast'
     },
     {
         id: 15,
@@ -138,7 +152,8 @@ const FoodData = [
         image: img15,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting : 3.23
+        ratting : 3.23,
+        category: 'Breakfast'
     },
     {
         id: 16,
@@ -146,7 +161,8 @@ const FoodData = [
         image: img16,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting : 4
+        ratting : 4,
+        category: 'Breakfast'
     },
     {
         id: 17,
@@ -154,31 +170,35 @@ const FoodData = [
         image: img17,
         price: 23.5,
         desc: "ultimate step in avoiding periodic",
-        ratting : 5
+        ratting : 5,
+        category: 'Breakfast'
     },
     {
         id: 18,
-        name: "Food One" ,
+        name: "Food" ,
         image: img18,
-        price: 23.5,
+        price: 23,
         desc: "ultimate step in avoiding periodic",
-        ratting : 3
+        ratting : 3,
+        category: 'Breakfast'
     },
     {
         id: 19,
-        name: "Food One" ,
+        name: "Food Normal" ,
         image: img19,
-        price: 23.5,
+        price: 22,
         desc: "ultimate step in avoiding periodic",
-        ratting : 4.4
+        ratting : 4.4,
+        category: 'Breakfast'
     },
     {
         id: 20,
-        name: "Food One" ,
+        name: "Food Best" ,
         image: img20,
-        price: 23.5,
+        price: 20,
         desc: "ultimate step in avoiding periodic",
-        ratting : 4.2
+        ratting : 4.2,
+        category: 'Breakfast'
     }
 ]
 

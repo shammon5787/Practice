@@ -25,7 +25,7 @@ const FoodCard = ({id, name, price, rating, image,desc}) => {
                 <button className='font-semibold text-xl bg-blue-700 px-2 text-white rounded-md hover:bg-slate-700 hover:text-yellow-700' onClick={()=>dispatch(add({id, name, image, desc, price, qty : 1}))}>Add To Card</button>
             </div>
         </div>
-    )
+    ) 
 }
 
 export default FoodCard
